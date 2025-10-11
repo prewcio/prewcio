@@ -12,7 +12,7 @@ _Full-Stack Developer & Systems Administrator_
 
 ## 🎯 About Me
 
-21-year-old Full-Stack Developer based in Warsaw, Poland, with a passion for modern web technologies and systems administration. I specialize in building scalable web applications, real-time systems, and managing complex server infrastructures. Currently focused on developing the OSINT Masters platform and AniTribe community project.
+22-year-old Full-Stack Developer based in Warsaw, Poland, with a passion for modern web technologies and systems administration. I specialize in building scalable web applications, real-time systems, and managing complex server infrastructures. Currently focused on developing the OSINT Masters platform and AniTribe community project.
 
 ### Personal Interests
 - 💻 Programming and Software Development
