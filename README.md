@@ -12,7 +12,7 @@ _Full-Stack Developer & Systems Administrator_
 
 ## 🎯 About Me
 
-22-year-old Full-Stack Developer based in Warsaw, Poland, with a passion for modern web technologies and systems administration. I specialize in building scalable web applications, real-time systems, and managing complex server infrastructures. Currently focused on developing the OSINT Masters platform and AniTribe community project.
+22-year-old Full-Stack Developer based in Warsaw, Poland, with a passion for modern web technologies and systems administration. I specialize in building scalable web applications, real-time systems, and managing complex server infrastructures. Currently focused on developing the Anime Tracker Page.
 
 ### Personal Interests
 - 💻 Programming and Software Development
@@ -61,34 +61,10 @@ _Full-Stack Developer & Systems Administrator_
 
 ## 🚀 Featured Projects
 
-### [OSINT Masters Platform](https://github.com/prewcio/osintmasters_frontend)
-A comprehensive OSINT (Open Source Intelligence) platform for students and researchers.
+### AniSite
+A advanced page to track animes that user wants to watch.
+More details soon!
 
-**Frontend Technologies:**
-- Next.js 14 with TypeScript
-- Real-time data visualization using Recharts
-- Advanced UI components with Radix UI
-- Tailwind CSS for styling
-- Framer Motion animations
-
-**Key Features:**
-- Live intelligence dashboard
-- Real-time collaboration tools
-- Interactive data visualization
-- PDF report generation and analysis
-- Advanced search capabilities
-- Dark/Light theme support
-
-### [AniTribe](https://github.com/prewcio/front_anitribe)
-Modern anime community platform built with Next.js and TypeScript.
-
-**Technical Highlights:**
-- Rich social features and interactions
-- Real-time chat functionality
-- Content management system
-- Responsive design
-- Form handling with React Hook Form
-- Data validation using Zod
 
 ## 🛠️ Professional Skills
 
