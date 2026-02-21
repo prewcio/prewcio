@@ -12,7 +12,7 @@ _Full-Stack Developer & Systems Administrator_
 
 ## 🎯 About Me
 
-22-year-old Full-Stack Developer based in Warsaw, Poland, with a passion for modern web technologies and systems administration. I specialize in building scalable web applications, real-time systems, and managing complex server infrastructures. Currently focused on developing the Anime Tracker Page.
+22-year-old Full-Stack Developer based in Warsaw, Poland, with a passion for modern web technologies and systems administration. I specialize in building scalable web applications, real-time systems, and managing complex server infrastructures. Currently focused on developing my own E-Commerce Shop (which I may transform in future into new e-commerce platform).
 
 ### Personal Interests
 - 💻 Programming and Software Development
@@ -101,7 +101,7 @@ More details soon!
 
 ---
 
-<sub>Last Updated: 2025-02-28 23:08:13</sub>  
+<sub>Last Updated: 2026-02-21 19:03:13</sub>  
 <sub>Login: prewcio</sub>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=prewcio&color=brightgreen&style=flat-square)
