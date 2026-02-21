@@ -61,9 +61,7 @@ _Full-Stack Developer & Systems Administrator_
 
 ## 🚀 Featured Projects
 
-### AniSite
-A advanced page to track animes that user wants to watch.
-More details soon!
+### None at the moment
 
 
 ## 🛠️ Professional Skills
